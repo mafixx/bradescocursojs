@@ -1,0 +1,2 @@
+# bradescocursojs
+Some exercises
